@@ -1,0 +1,11 @@
+.config{
+    float: right;
+    display: block
+}
+.author{
+    float: left;
+    font-style: italic;
+}
+.spacer{
+    clear: both
+}
